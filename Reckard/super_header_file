@@ -1,0 +1,7 @@
+#ifndef super_header_file
+#define super_header_file
+
+int question1(int side1, int side2);
+int question2(int pow1, int pow2);
+int question3(int cookies, int people);
+#endif
